@@ -1,6 +1,3 @@
-import _ from "lodash"
+import _ from 'lodash'
 
-
-console.log("hello world 3")
-
-
+console.log('hello world 3')

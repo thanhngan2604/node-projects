@@ -1,3 +1,9 @@
+/**
+ * 
+ * @param a number
+ * @param b number
+ * @returns number
+ */
 function sum(a: number, b: number): number{
     return a+b
 }
